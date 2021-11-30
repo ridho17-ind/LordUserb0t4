@@ -437,7 +437,7 @@ var waktoo = date.getHours();
   		      var ucapannya = `Night 🌚 ${pushname}`
 				}
 				mess = {
-					wait: 'Proses Lord..',
+					wait: 'Proses Kak Tunggu Sebentar..',
 					limit: 'Limit kamu habis lord , Silahkan beli dengan #buylimit <nominal> atau minta gift dari user lain',
 					sewabot: ` 「 *SEWA BOT* 」 \n\nBerikut list sewa bot kami
 
